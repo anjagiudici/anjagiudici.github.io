@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regina Bühlmann | Anja Giudici</title>
+    <link>https://anjagiudici.github.io/authors/regina-buhlmann/</link>
+      <atom:link href="https://anjagiudici.github.io/authors/regina-buhlmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Regina Bühlmann</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://anjagiudici.github.io/img/icon-192.png</url>
+      <title>Regina Bühlmann</title>
+      <link>https://anjagiudici.github.io/authors/regina-buhlmann/</link>
+    </image>
+    
+    <item>
+      <title>Cooperation with the school of the immigration country</title>
+      <link>https://anjagiudici.github.io/publication/buehlmanngiudici2016/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://anjagiudici.github.io/publication/buehlmanngiudici2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

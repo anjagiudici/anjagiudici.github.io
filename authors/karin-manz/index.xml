@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Karin Manz | Anja Giudici</title>
+    <link>https://anjagiudici.github.io/authors/karin-manz/</link>
+      <atom:link href="https://anjagiudici.github.io/authors/karin-manz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Karin Manz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://anjagiudici.github.io/img/icon-192.png</url>
+      <title>Karin Manz</title>
+      <link>https://anjagiudici.github.io/authors/karin-manz/</link>
+    </image>
+    
+    <item>
+      <title>Knabenlernzeiten – Mädchenlernzeiten: gleich, gleicher, ungleich?</title>
+      <link>https://anjagiudici.github.io/publication/giudicimanz2018_gender/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://anjagiudici.github.io/publication/giudicimanz2018_gender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Das Programm zur Nationalen Erziehung (1914–1924) oder wie ein forcierter Kulturtransfer politisch scheitert</title>
+      <link>https://anjagiudici.github.io/publication/giudicimanz2018/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://anjagiudici.github.io/publication/giudicimanz2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

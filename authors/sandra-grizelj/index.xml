@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sandra Grizelj | Anja Giudici</title>
+    <link>https://anjagiudici.github.io/authors/sandra-grizelj/</link>
+      <atom:link href="https://anjagiudici.github.io/authors/sandra-grizelj/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sandra Grizelj</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://anjagiudici.github.io/img/icon-192.png</url>
+      <title>Sandra Grizelj</title>
+      <link>https://anjagiudici.github.io/authors/sandra-grizelj/</link>
+    </image>
+    
+    <item>
+      <title>National unity in cultural diversity: How national and linguistic identities affected Swiss language curricula (1914-1961)</title>
+      <link>https://anjagiudici.github.io/publication/giudicigrizelj2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://anjagiudici.github.io/publication/giudicigrizelj2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vom Berufs- und Elitewissen zum Garant des nationalen Zusammenhalts - Die Fremdsprachen in den Lehrplänen der Schweizer Volksschulen seit 1830</title>
+      <link>https://anjagiudici.github.io/publication/giudicigrizelj2014/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://anjagiudici.github.io/publication/giudicigrizelj2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
