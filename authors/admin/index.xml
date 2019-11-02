@@ -5,7 +5,7 @@
     <link>https://anjagiudici.github.io/authors/admin/</link>
       <atom:link href="https://anjagiudici.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Anja Giudici</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Wed, 23 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://anjagiudici.github.io/img/icon-192.png</url>
       <title>Anja Giudici</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
-      <title>Knabenlernzeiten – Mädchenlernzeiten: gleich, gleicher, ungleich?</title>
-      <link>https://anjagiudici.github.io/publication/giudicimanz2018_gender/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://anjagiudici.github.io/publication/giudicimanz2018_gender/</guid>
+      <title>How to educate an authoritarian society: conflicting views on school reform for a fascist society in interwar Switzerland</title>
+      <link>https://anjagiudici.github.io/publication/giudiciruoss2019/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://anjagiudici.github.io/publication/giudiciruoss2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nativist authoritarian far-right flirtations with progressive education: exploring the relationship in interwar Switzerland</title>
+      <link>https://anjagiudici.github.io/publication/giudiciruossmasoni2019/</link>
+      <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://anjagiudici.github.io/publication/giudiciruossmasoni2019/</guid>
       <description></description>
     </item>
     
@@ -96,26 +104,10 @@ date: 2019-09-01
     </item>
     
     <item>
-      <title>Nativist authoritarian far-right flirtations with progressive education: exploring the relationship in interwar Switzerland</title>
-      <link>https://anjagiudici.github.io/publication/giudiciruossmasoni2019/</link>
-      <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://anjagiudici.github.io/publication/giudiciruossmasoni2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Die Zusammensetzung des schweizerischen Bundesrates nach Partei, Sprache, Religion und Region 1848-2015</title>
-      <link>https://anjagiudici.github.io/publication/giudicistojanovic2016/</link>
+      <title>Knabenlernzeiten – Mädchenlernzeiten: gleich, gleicher, ungleich?</title>
+      <link>https://anjagiudici.github.io/publication/giudicimanz2018_gender/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://anjagiudici.github.io/publication/giudicistojanovic2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Una centralizzazione passata dalla porta di servizio? Il federalismo scolastico: origini, evoluzione e sfide contemporanee</title>
-      <link>https://anjagiudici.github.io/publication/giudici2017fed/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://anjagiudici.github.io/publication/giudici2017fed/</guid>
+      <guid>https://anjagiudici.github.io/publication/giudicimanz2018_gender/</guid>
       <description></description>
     </item>
     
@@ -144,6 +136,22 @@ date: 2019-09-01
     </item>
     
     <item>
+      <title>Introduzione: Come funziona il federalismo elvetico?</title>
+      <link>https://anjagiudici.github.io/publication/giudicimueller2017/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://anjagiudici.github.io/publication/giudicimueller2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Una centralizzazione passata dalla porta di servizio? Il federalismo scolastico: origini, evoluzione e sfide contemporanee</title>
+      <link>https://anjagiudici.github.io/publication/giudici2017fed/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://anjagiudici.github.io/publication/giudici2017fed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Rezension zu: Weymann, Ansgar: States, Markets and Education. The Rise and Limits of the Education State. New York 2014 und Kojima, Tomoko: Die Öffentlichkeit der Erziehung. Eine historisch vergleichende Untersuchung. Wiesbaden 2015</title>
       <link>https://anjagiudici.github.io/publication/giudici2016_rez/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
@@ -160,18 +168,10 @@ date: 2019-09-01
     </item>
     
     <item>
-      <title>Cooperation with the school of the immigration country</title>
-      <link>https://anjagiudici.github.io/publication/buehlmanngiudici2016/</link>
+      <title>Die Zusammensetzung des schweizerischen Bundesrates nach Partei, Sprache, Religion und Region 1848-2015</title>
+      <link>https://anjagiudici.github.io/publication/giudicistojanovic2016/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://anjagiudici.github.io/publication/buehlmanngiudici2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HLT in various host countries and linkage with their school systems: overview, models</title>
-      <link>https://anjagiudici.github.io/publication/giudici2016_hsk/</link>
-      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://anjagiudici.github.io/publication/giudici2016_hsk/</guid>
+      <guid>https://anjagiudici.github.io/publication/giudicistojanovic2016/</guid>
       <description></description>
     </item>
     
@@ -287,14 +287,6 @@ date: 2019-09-01
 
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Vom Berufs- und Elitewissen zum Garant des nationalen Zusammenhalts - Die Fremdsprachen in den Lehrplänen der Schweizer Volksschulen seit 1830</title>
-      <link>https://anjagiudici.github.io/publication/giudicigrizelj2014/</link>
-      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://anjagiudici.github.io/publication/giudicigrizelj2014/</guid>
-      <description></description>
     </item>
     
   </channel>

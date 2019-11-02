@@ -5,7 +5,7 @@
     <link>https://anjagiudici.github.io/</link>
       <atom:link href="https://anjagiudici.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Anja Giudici</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://anjagiudici.github.io/img/icon-192.png</url>
       <title>Anja Giudici</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Outreach</title>
       <link>https://anjagiudici.github.io/talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       <guid>https://anjagiudici.github.io/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://anjagiudici.github.io/publication/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://anjagiudici.github.io/publication/</guid>
       <description></description>
     </item>
     
@@ -29,18 +37,18 @@
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>https://anjagiudici.github.io/publication/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://anjagiudici.github.io/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Posts</title>
       <link>https://anjagiudici.github.io/post/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://anjagiudici.github.io/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outreaches</title>
+      <link>https://anjagiudici.github.io/outreach/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://anjagiudici.github.io/outreach/</guid>
       <description></description>
     </item>
     
