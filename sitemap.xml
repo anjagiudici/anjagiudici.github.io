@@ -268,31 +268,6 @@
   </url>
   
   <url>
-    <loc>https://anjagiudici.github.io/tags/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://anjagiudici.github.io/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://anjagiudici.github.io/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://anjagiudici.github.io/categories/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://anjagiudici.github.io/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://anjagiudici.github.io/outreach/giudicibuehlmann2014/</loc>
     <lastmod>2014-09-21T00:00:00+00:00</lastmod>
   </url>
@@ -303,7 +278,15 @@
   </url>
   
   <url>
+    <loc>https://anjagiudici.github.io/categories/</loc>
+  </url>
+  
+  <url>
     <loc>https://anjagiudici.github.io/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>https://anjagiudici.github.io/tags/</loc>
   </url>
   
 </urlset>
