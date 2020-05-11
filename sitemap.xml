@@ -3,18 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://anjagiudici.github.io/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <loc>https://anjagiudici.github.io/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://anjagiudici.github.io/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+    <loc>https://anjagiudici.github.io/outreach/giudici2020/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://anjagiudici.github.io/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <loc>https://anjagiudici.github.io/outreach/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -24,11 +24,6 @@
   
   <url>
     <loc>https://anjagiudici.github.io/publication_types/2/</loc>
-    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://anjagiudici.github.io/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -93,21 +88,6 @@
   </url>
   
   <url>
-    <loc>https://anjagiudici.github.io/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://anjagiudici.github.io/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://anjagiudici.github.io/outreach/</loc>
-    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://anjagiudici.github.io/outreach/giudicimammone2019/</loc>
     <lastmod>2019-03-29T00:00:00+00:00</lastmod>
   </url>
@@ -120,21 +100,6 @@
   <url>
     <loc>https://anjagiudici.github.io/publication/giudici2019diss/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://anjagiudici.github.io/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://anjagiudici.github.io/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://anjagiudici.github.io/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -279,10 +244,6 @@
   
   <url>
     <loc>https://anjagiudici.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://anjagiudici.github.io/courses/</loc>
   </url>
   
   <url>
