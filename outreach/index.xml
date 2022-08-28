@@ -5,12 +5,21 @@
     <link>https://anjagiudici.github.io/outreach/</link>
       <atom:link href="https://anjagiudici.github.io/outreach/index.xml" rel="self" type="application/rss+xml" />
     <description>Outreaches</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://anjagiudici.github.io/img/icon-192.png</url>
       <title>Outreaches</title>
       <link>https://anjagiudici.github.io/outreach/</link>
     </image>
+    
+    <item>
+      <title>Bildungshistorische Perspektiven auf den Aufstieg der westeuropäischen radikalen Rechten</title>
+      <link>https://anjagiudici.github.io/outreach/giudici2022/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://anjagiudici.github.io/outreach/giudici2022/</guid>
+      <description>&lt;hr /&gt;
+</description>
+    </item>
     
     <item>
       <title>Fascisten bei der Schule planlos</title>
@@ -26,15 +35,6 @@
       <link>https://anjagiudici.github.io/outreach/giudicimammone2019/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://anjagiudici.github.io/outreach/giudicimammone2019/</guid>
-      <description>&lt;hr /&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Il federalismo svizzero e la sfida dell&#39;inglese</title>
-      <link>https://anjagiudici.github.io/outreach/giudici2018radio/</link>
-      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://anjagiudici.github.io/outreach/giudici2018radio/</guid>
       <description>&lt;hr /&gt;
 </description>
     </item>

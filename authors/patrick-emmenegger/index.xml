@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patrick Emmenegger | Anja Giudici</title>
+    <link>https://anjagiudici.github.io/authors/patrick-emmenegger/</link>
+      <atom:link href="https://anjagiudici.github.io/authors/patrick-emmenegger/index.xml" rel="self" type="application/rss+xml" />
+    <description>Patrick Emmenegger</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 23 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://anjagiudici.github.io/img/icon-192.png</url>
+      <title>Patrick Emmenegger</title>
+      <link>https://anjagiudici.github.io/authors/patrick-emmenegger/</link>
+    </image>
+    
+    <item>
+      <title>Bildungspoitik</title>
+      <link>https://anjagiudici.github.io/publication/giudiciemmenegger2022/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://anjagiudici.github.io/publication/giudiciemmenegger2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>https://anjagiudici.github.io/publication_types/</link>
       <atom:link href="https://anjagiudici.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://anjagiudici.github.io/img/icon-192.png</url>
       <title>Publication_types</title>
@@ -15,8 +15,16 @@
     <item>
       <title>2</title>
       <link>https://anjagiudici.github.io/publication_types/2/</link>
-      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://anjagiudici.github.io/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>6</title>
+      <link>https://anjagiudici.github.io/publication_types/6/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://anjagiudici.github.io/publication_types/6/</guid>
       <description></description>
     </item>
     
@@ -33,14 +41,6 @@
       <link>https://anjagiudici.github.io/publication_types/7/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://anjagiudici.github.io/publication_types/7/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>6</title>
-      <link>https://anjagiudici.github.io/publication_types/6/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://anjagiudici.github.io/publication_types/6/</guid>
       <description></description>
     </item>
     

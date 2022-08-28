@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jane Gingrich | Anja Giudici</title>
+    <link>https://anjagiudici.github.io/authors/jane-gingrich/</link>
+      <atom:link href="https://anjagiudici.github.io/authors/jane-gingrich/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jane Gingrich</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://anjagiudici.github.io/img/icon-192.png</url>
+      <title>Jane Gingrich</title>
+      <link>https://anjagiudici.github.io/authors/jane-gingrich/</link>
+    </image>
+    
+    <item>
+      <title>Center-right Parties and Post-War Secondary Education</title>
+      <link>https://anjagiudici.github.io/publication/giudicietal2022cp/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://anjagiudici.github.io/publication/giudicietal2022cp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Politics of Post-War Education Expansion and Differentiation</title>
+      <link>https://anjagiudici.github.io/publication/gingrichetal2022/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://anjagiudici.github.io/publication/gingrichetal2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
