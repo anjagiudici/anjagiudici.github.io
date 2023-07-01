@@ -5,7 +5,7 @@
     <link>https://anjagiudici.github.io/publication/</link>
       <atom:link href="https://anjagiudici.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://anjagiudici.github.io/img/icon-192.png</url>
       <title>Publications</title>
@@ -13,23 +13,47 @@
     </image>
     
     <item>
-      <title>Center-right Parties and Post-War Secondary Education</title>
-      <link>https://anjagiudici.github.io/publication/giudicietal2022cp/</link>
-      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://anjagiudici.github.io/publication/giudicietal2022cp/</guid>
+      <title>Multidimensionality Matters: The Implications of Educational Hierarchy and Differentiation for Intergenerational Mobility in Europe</title>
+      <link>https://anjagiudici.github.io/publication/gingrichetal2023/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://anjagiudici.github.io/publication/gingrichetal2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Politics of Post-War Education Expansion and Differentiation</title>
       <link>https://anjagiudici.github.io/publication/gingrichetal2022/</link>
-      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://anjagiudici.github.io/publication/gingrichetal2022/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bildungspoitik</title>
+      <title>Center-right Parties and Post-War Secondary Education</title>
+      <link>https://anjagiudici.github.io/publication/giudicietal2022cp/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://anjagiudici.github.io/publication/giudicietal2022cp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Education as a Tool of Social Equality?</title>
+      <link>https://anjagiudici.github.io/publication/gingrichgiudici2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://anjagiudici.github.io/publication/gingrichgiudici2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nationalism and the Curriculum: Analytical and Methodological Considerations</title>
+      <link>https://anjagiudici.github.io/publication/giudici2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://anjagiudici.github.io/publication/giudici2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bildungspolitik</title>
       <link>https://anjagiudici.github.io/publication/giudiciemmenegger2022/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://anjagiudici.github.io/publication/giudiciemmenegger2022/</guid>
